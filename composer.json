@@ -1,0 +1,25 @@
+{
+    "name": "mmkovzhogina/complex_numbers_test",
+    "description": "'Class for work complex numbers'",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ArithmeticOperations\\":  "ArithmeticOperations/",
+            "Models\\":  "Models/",
+            "Services\\":  "Services/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "Tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mmkovzhogina",
+            "email": "makhendra@list.ru"
+        }
+    ],
+    "require": {}
+}
